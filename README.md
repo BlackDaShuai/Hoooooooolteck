@@ -1,5 +1,6 @@
 # Hoooooooolteck
-合泰杯-小型水域生态护理船
+Hetai - water ecological care ship
 
-一个很简单的基于MQTT协议的onenet物联网项目
-如果该项目中的代码帮助到了你，请为该项目点一个Star
+A simple onenet iot project based on MQTT protocol
+Contains control codes for DS18b20, DHT11, TB6612
+If the code in the project helped you, click a Star for the project
